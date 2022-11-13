@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 👋 I'm @Cybermade
+- 🔭 I'm interested in Game Dev, Data Science and AI
+- 🌱 I’m currently learning Python and Unity
 <!--
 **Cybermade/Cybermade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
