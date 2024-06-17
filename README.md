@@ -1,9 +1,9 @@
 <h2 align="center">Hi, I'm @Cybermade 👋</h2>
 
 
-- 🔭 I'm interested in Game Dev, Data Science and AI  
+- 🔭 I'm interested in Game Dev, Everything about Data and AI  
 
-- 🌱 I’m currently learning Python and Unity
+- 🌱 I’m currently learning Python and Godot
 <br>          
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cybermade&layout=compact&theme=tokyonight&hide=POV-Ray%20SDL" />
